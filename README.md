@@ -196,7 +196,7 @@ To run the backend locally, follow these steps:
 
     ```env
     # .env
-    DB_URL="postgresql://user:password@localhost:5432/yoga_class"
+    DB_URL="postgresql://user:password@localhost:8000/your-database-name"
     PORT=8000
     ACCESS_TOKEN_SECRET="your_access_token_string"
     ```
